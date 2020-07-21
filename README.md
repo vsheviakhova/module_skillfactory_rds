@@ -1,4 +1,5 @@
-# module_skillfactory_rds
+#skillfactory_rds
+Unit 1. Who wants to be a millionaire?
 
 Задача проекта:
 проанализировать базу данных фильмов IMDB
